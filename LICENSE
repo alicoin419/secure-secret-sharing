@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2025 Secure Secret Sharing Tool
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+SECURITY DISCLAIMER:
+
+This software is provided for educational and personal use. Users are responsible
+for:
+
+1. Conducting their own security audits before production use
+2. Ensuring proper operational security (air-gapped environments)
+3. Understanding the risks involved in secret management
+4. Testing thoroughly in non-production environments first
+5. Following all applicable laws and regulations
+
+The authors make no warranties about the security, correctness, or fitness for
+any particular purpose of this software. Use at your own risk.
+
+CRITICAL SECURITY NOTICE:
+
+- This tool handles extremely sensitive information
+- Always use on air-gapped, physically secure devices
+- Never use on network-connected systems during secret operations
+- Conduct independent security review before production use
+- The cryptographic implementation should be audited by qualified professionals
+- Users are responsible for proper key management and operational security

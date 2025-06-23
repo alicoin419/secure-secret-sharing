@@ -1,0 +1,28 @@
+# Secure Secret Sharing Tool - Dependencies
+#
+# This tool is designed to use ONLY Python standard library modules
+# for maximum security and minimal attack surface.
+#
+# The following are OPTIONAL dependencies that can enhance functionality
+# but are NOT required for core operation:
+
+# Optional: Enhanced clipboard functionality
+# pyperclip>=1.8.0
+
+# Optional: Network interface detection for air-gap verification
+# psutil>=5.8.0
+
+# Optional: Enhanced GUI styling (already included in tkinter)
+# Note: tkinter is part of Python standard library
+
+# Development dependencies (for testing and development only):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+
+# SECURITY NOTE:
+# For maximum security in production environments:
+# 1. Use only Python standard library (no external dependencies)
+# 2. Manually verify all code before execution
+# 3. Use on air-gapped systems only
+# 4. Conduct independent security audit
