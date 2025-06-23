@@ -59,9 +59,6 @@ python main.py
 
 ## 🖼️ Screenshots
 
-### Split Secret Interface Secret Reconstructio
-![Split Secret Interface](images/sc3.png)
-*Modern dark-themed interface for splitting secrets into secure shares*
 
 ### Split Secret Interface
 ![Secret Reconstruction](images/sc1.png)
@@ -70,6 +67,11 @@ python main.py
 ### Input Validation
 ![Input Validation](images/sc2.1.png)
 *Robust input validation ensures security shares count *
+
+###  Secret Reconstructio
+![Split Secret Interface](images/sc3.png)
+*Modern dark-themed interface for splitting secrets into secure shares*
+
 
 ## 📊 Accuracy Testing
 
