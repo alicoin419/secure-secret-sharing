@@ -62,7 +62,7 @@ python main.py
 
 ### Split Secret Interface
 ![Secret Reconstruction](images/sc1.png)
-*Reconstructing the original secret from shares with validation*
+*Modern dark-themed interface for splitting secrets into secure shares*
 
 ### Input Validation
 ![Input Validation](images/sc2.1.png)
@@ -70,7 +70,7 @@ python main.py
 
 ###  Secret Reconstructio
 ![Split Secret Interface](images/sc3.png)
-*Modern dark-themed interface for splitting secrets into secure shares*
+* Reconstructing the original secret from shares with validation*
 
 
 ## 📊 Accuracy Testing
