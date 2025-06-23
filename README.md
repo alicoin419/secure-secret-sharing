@@ -1,6 +1,6 @@
 # 🔐 CryptoVault - Secure Secret Sharing Suite
 
-[![Security Status](https://img.shields.io/badge/security-air--gapped--only-red)](https://github.com/username/cryptovault)
+[![Security Status](https://img.shields.io/badge/security-air--gapped--only-red)](https://github.com/alicoin419/secure-secret-sharing)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -34,8 +34,8 @@ A private, secure, offline tool for generating and splitting sensitive secrets u
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/username/cryptovault.git
-cd cryptovault
+git clone https://github.com/alicoin419/secure-secret-sharing.git
+cd secure-secret-sharing
 
 # Optional: Install clipboard support
 pip install -r requirements.txt
@@ -56,6 +56,20 @@ python main.py
    - Paste your shares in the left input panel (one per line)
    - Click "🔄 Reconstruct Secret"
    - View the reconstructed secret in the right panel
+
+## 🖼️ Screenshots
+
+### Split Secret Interface
+![Split Secret Interface](images/sc3.png)
+*Modern dark-themed interface for splitting secrets into secure shares*
+
+### Secret Reconstruction
+![Secret Reconstruction](images/sc1.png)
+*Reconstructing the original secret from shares with validation*
+
+### Input Validation
+![Input Validation](images/sc2.1.png)
+*Robust input validation ensures security and prevents errors*
 
 ## 📊 Accuracy Testing
 
